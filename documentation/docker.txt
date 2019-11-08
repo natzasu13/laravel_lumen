@@ -1,6 +1,6 @@
 
 crear una imagen
-$ mysql -u root -p
+$ sudo docker run --name mysql2 -p 3307:3306 -e MYSQL_ROOT_PASSWORD=123 mysql
 
 
 listar docker imagenes de docker en consola :
