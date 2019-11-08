@@ -1,0 +1,18 @@
+
+crear una imagen
+$ mysql -u root -p
+
+
+listar docker imagenes de docker en consola :
+$ docker ps
+
+Asi se ejecuta la imagen que cree de docker llamada "mysql2"
+$ docker exec -it mysql2 bash
+
+
+$mysql -u root -p
+$Enter password: 123
+
+
+
+
