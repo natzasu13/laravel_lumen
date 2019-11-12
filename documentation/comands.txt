@@ -57,6 +57,8 @@ $ php -r "if (hash_file('SHA384', 'composer-setup.php') === '$HASH') { echo 'Ins
 
 $ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
+SUBIR DOCKER COMPOSER
+$ sudo docker-compose up -d   //Ahi ya estoy en el entorno
 
 
 INSTALL GIT
