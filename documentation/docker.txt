@@ -13,6 +13,7 @@ $ docker exec -it mysql2 bash
 $mysql -u root -p
 $Enter password: 123
 
-
+SUBIR DOCKER COMPOSER
+$ sudo docker-compose up -d   //Ahi ya estoy en el entorno
 
 
